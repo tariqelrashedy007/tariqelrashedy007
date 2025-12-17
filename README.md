@@ -3,4 +3,4 @@
 Cybersecurity enthusiast | TryHackMe trainee | Ethical hacking & defensive security learner
 
 ## 🏴‍☠️ TryHackMe Badge
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RedAnubis.png) 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6242684" style='border:none;'></iframe>
